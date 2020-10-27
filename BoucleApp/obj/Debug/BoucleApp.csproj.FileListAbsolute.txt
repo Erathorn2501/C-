@@ -1,0 +1,6 @@
+C:\Users\33612\Charp_workspace\TestCsharp\ConsoleApp1\BoucleApp\bin\Debug\BoucleApp.exe.config
+C:\Users\33612\Charp_workspace\TestCsharp\ConsoleApp1\BoucleApp\bin\Debug\BoucleApp.exe
+C:\Users\33612\Charp_workspace\TestCsharp\ConsoleApp1\BoucleApp\bin\Debug\BoucleApp.pdb
+C:\Users\33612\Charp_workspace\TestCsharp\ConsoleApp1\BoucleApp\obj\Debug\BoucleApp.csproj.CoreCompileInputs.cache
+C:\Users\33612\Charp_workspace\TestCsharp\ConsoleApp1\BoucleApp\obj\Debug\BoucleApp.exe
+C:\Users\33612\Charp_workspace\TestCsharp\ConsoleApp1\BoucleApp\obj\Debug\BoucleApp.pdb
